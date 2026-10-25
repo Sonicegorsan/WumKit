@@ -1,0 +1,51 @@
+[
+  {
+    "path": "CMakeLists.txt",
+    "bytes": 225,
+    "sha256": "902d59e7db8e7c3436113794d456cccff72ecd26ee7879fd0c7520f013361e13",
+    "archive_mode": "0o644",
+    "executable": false
+  },
+  {
+    "path": "LICENSE",
+    "bytes": 473,
+    "sha256": "bd6059c1689534cb0b608255072d4226ce4d720407c366bc27f26883b747ef00",
+    "archive_mode": "0o644",
+    "executable": false
+  },
+  {
+    "path": "README.md",
+    "bytes": 633,
+    "sha256": "555bfcede2254bf924d638627a3616b9f3a0beea44af9cb983c5099e94060a0c",
+    "archive_mode": "0o644",
+    "executable": false
+  },
+  {
+    "path": "cgGL.cpp",
+    "bytes": 33380,
+    "sha256": "4e891561bfb2f1ed0404f83cfbba07e2627ffec0ecca2b86a2ad9636219dae2e",
+    "archive_mode": "0o644",
+    "executable": false
+  },
+  {
+    "path": "cgGL.def",
+    "bytes": 5096,
+    "sha256": "0d01d0b4ee45ed4bd12b2923a08e3f8f15e794c56eb03c873bdbaeadd2648062",
+    "archive_mode": "0o644",
+    "executable": false
+  },
+  {
+    "path": "empty.h",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "archive_mode": "0o644",
+    "executable": false
+  },
+  {
+    "path": "hook_macro.h",
+    "bytes": 356,
+    "sha256": "78ff06ef5ffa96a083b258cbda0cd953cc9594a4715f958b7bb087a503990cfb",
+    "archive_mode": "0o644",
+    "executable": false
+  }
+]
